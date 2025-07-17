@@ -57,20 +57,6 @@
       "Index": "67.0"
     },
     {
-      "Teslim Haftası": "30 Haziran-4 Temmuz 2025",
-      "CRMOrderNo": "140093",
-      "Kullanım": "Ek Siparis Yedek Parça",
-      "Proje Türü": "Mutfak Sipariş",
-      "Müşteri": "SEVİLAY ÖZDEMİR",
-      "İçerik": "Mat Lake Dak Parçası + Kulp",
-      "Malzeme": "M011 Sis Gri özel renk RAL 840-1",
-      "Üretime Aktarım": "28.05.2025",
-      "Kapak Prog": "-B8-",
-      "Tamamlayıcı Prog": "-",
-      "Teslim Durumu": "-",
-      "Index": "100.0"
-    },
-    {
       "Teslim Haftası": "14-18 Temmuz 2025",
       "CRMOrderNo": "140357",
       "Kullanım": "Ek Siparis Yedek Parça",
@@ -111,20 +97,6 @@
       "Tamamlayıcı Prog": "-",
       "Teslim Durumu": "-",
       "Index": "102.0"
-    },
-    {
-      "Teslim Haftası": "21-25 Temmuz 2025",
-      "CRMOrderNo": "140540",
-      "Kullanım": "Ek Siparis Yedek Parça",
-      "Proje Türü": "Mutfak Sipariş",
-      "Müşteri": "SADIKOĞLU GRUP PROJE İNŞAAT SAN.",
-      "İçerik": "1 Adet Mat Lake MRF",
-      "Malzeme": "M016 Gümüş Gri  ",
-      "Üretime Aktarım": "16.06.2025",
-      "Kapak Prog": "-",
-      "Tamamlayıcı Prog": "-ML-",
-      "Teslim Durumu": "-",
-      "Index": "103.0"
     },
     {
       "Teslim Haftası": "21-25 Temmuz 2025",
@@ -1513,9 +1485,9 @@
     "Teslim Durumu",
     "Index"
   ],
-  "total_rows": 107,
+  "total_rows": 105,
   "original_rows": 1598,
-  "filtered_rows": 1491,
-  "last_updated": "2025-07-16T23:10:22.541672",
+  "filtered_rows": 1493,
+  "last_updated": "2025-07-17T15:10:15.813386",
   "missing_columns": []
 }
