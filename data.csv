@@ -1,11 +1,7 @@
 ﻿Teslim Haftası,CRMOrderNo,Kullanım,Proje Türü,Müşteri,İçerik,Malzeme,Üretime Aktarım,Kapak Prog,Tamamlayıcı Prog,Teslim Durumu,Index
 11-15 Kasım 2024,134512,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,MAS CEPHE SİST.İNŞ.SAN. VE TİC.LTD.,Membran Parçalar + Tezgah,,17.10.2024,-,-DP-TZG1-TZG2-TZG3-,-,67.0
 11-15 Kasım 2024,134515,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,Sarıkadıoğlu Mimarlık,Membran Parçalar + Tezgah,,17.10.2024,-,-DP-TZG1-TZG2-TZG3-,-,67.0
-14-18 Temmuz 2025,140357,Ek Siparis Yedek Parça,Reklamasyon Siparis,İntema İzmir Mağaza,1 Adet N1 1 Adet N2 Kapak,,10.06.2025,-N2-N1-,-,-,102.0
-28 Temmuz-1 Ağustos 2025,140694,Ek Siparis Yedek Parça,Reklamasyon Siparis,ALZE YAPI TEŞHİR,1 Adet Mat Lake Panel,M015 Taş Gri 09610.0STN105 PULVER,23.06.2025,-,-ML-,-,104.0
 21-25 Temmuz 2025,140692,Ek Siparis Yedek Parça,Mutfak Sipariş,Güray Çıracı,1 Adet Doğal Ahşap Panel,W009 Düşey Hareli Naturel Meşe Düşey Hareli Naturel Meşe,26.06.2025,-,-ND-,-,103.0
-30 Haziran-4 Temmuz 2025,137588,Ek Siparis Yedek Parça,Mağaza Teşhir Sipariş,İntema Yaşam Mağaza,Yeni Renkler Numune Set,,13.02.2025,-N2-V1-F1-T6-B8-M2-X1-,-,-,100.0
-30 Haziran-4 Temmuz 2025,137589,Ek Siparis Yedek Parça,Mağaza Teşhir Sipariş,İntema Yaşam Mağaza,Yeni Renkler Numune Set,,13.02.2025,-N2-V1-F1-T6-B8-M2-X1-,-,-,100.0
 ,137656,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,Tezgah ve Yanak Numune Set,,13.02.2025,-,-,-,
 ,137643,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,Rezerv Numune Set,,13.02.2025,-,-,-,
 ,137646,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,Rezerv Numune Set,,13.02.2025,-,-,-,
@@ -14,7 +10,6 @@
 ,137644,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,Rezerv Numune Set,,13.02.2025,-,-,-,
 4-8 Ağustos 2025,140936,Ek Siparis Yedek Parça,Reklamasyon Siparis,Ufuk  Veral,1 Adet Parlak Lake Kapak,P018 Taupe RAL 060 60 05,2.07.2025,-T7-,-KM-,-,105.0
 11-15 Ağustos 2025,141001,Ek Siparis Yedek Parça,Mutfak Sipariş,Reyhan Eren,3 Adet Mat lake Panel,M011 Sis Gri özel renk RAL 840-1,4.07.2025,-,-ML-KM-,-,106.0
-28 Temmuz-1 Ağustos 2025,140994,Ek Siparis Yedek Parça,Mutfak Sipariş,meltem gülbayacarkan,9 Adet Membran MTDP,T123 Kaşmir Finedecor FLI3 AFM 3001 Kasmir,4.07.2025,-,-DP-,-,104.0
 11-15 Ağustos 2025,141036,Ek Siparis Yedek Parça,Reklamasyon Siparis,ALSAN ALÜMİNYUM,1 Adet Mat Lake Kapak,M002 Açık Kül Gri özel renk,3.07.2025,-B8-,-,-,106.0
 11-15 Ağustos 2025,140913,Ek Siparis Yedek Parça,Mutfak Sipariş,GÜNEYLİLER İNŞAAT BODRUM ,1 Adet Mat Lake Kapak,,4.07.2025,-B8-,-KM-,-,106.0
 11-15 Ağustos 2025,140914,Ek Siparis Yedek Parça,Mutfak Sipariş,GÜNEYLİLER İNŞAAT BODRUM ,1 Adet Mat Lake Kapak,,4.07.2025,-B8-,-,-,106.0
@@ -28,70 +23,24 @@
 11-15 Ağustos 2025,140933,Ek Siparis Yedek Parça,Mutfak Sipariş,GÜNEYLİLER İNŞAAT BODRUM ,1 Adet Mat Lake Klape,,4.07.2025,-B8-,-,-,106.0
 11-15 Ağustos 2025,140935,Ek Siparis Yedek Parça,Mutfak Sipariş,GÜNEYLİLER İNŞAAT BODRUM ,2 Adet Mat Lake Parça,,4.07.2025,-B8-,-,-,106.0
 14-18 Temmuz 2025,141042,Ek Siparis Yedek Parça,Toplu İş Siparişi,TAYYAR VARGÜN,Kulp,,4.07.2025,-,-,-,102.0
-28 Temmuz-1 Ağustos 2025,140901,Ek Siparis Yedek Parça,Mutfak Sipariş,BUSE BABA,CM ve MPG Parçalar,CM06 Kristal Mat Katran Finedecor FDP2 567 Black SM,3.07.2025,-CM-,-CMT-KM-SYH-,-,104.0
-28 Temmuz-1 Ağustos 2025,141002,Ek Siparis Yedek Parça,Mutfak Sipariş,Begüm Rastgele,2 Adet Membran Panel,T122 Açık Gri  Finedecor FLI3 AFM 4000 Grey ,4.07.2025,-,-DP-,-,104.0
-14-18 Temmuz 2025,141118,Ek Siparis Yedek Parça,Reklamasyon Siparis,CENK ÖLÇER,4 Adet Membran Parça,T120 Baltık Mavi  Finedecor FLI3 AFM 6100 Aquamarin,7.07.2025,-V2-,-DP-,-,102.0
-21-25 Temmuz 2025,141016,Ek Siparis Yedek Parça,Toplu İş Siparişi,KORAY İNŞ. TİC VE SAN.AŞ - LIBERTE,2 Adet CM Kapak,CM01 Kristal Mat Süt Beyaz Finedecor FDP2 546 White SM,9.07.2025,-CM-,-,-,103.0
-21-25 Temmuz 2025,141020,Ek Siparis Yedek Parça,Toplu İş Siparişi,KORAY İNŞ. TİC VE SAN.AŞ - LIBERTE,1 Adet CM Kapak,CM01 Kristal Mat Süt Beyaz Finedecor FDP2 546 White SM,9.07.2025,-CM-,-,-,103.0
-21-25 Temmuz 2025,141027,Ek Siparis Yedek Parça,Toplu İş Siparişi,KORAY İNŞ. TİC VE SAN.AŞ - LIBERTE,2 Adet CM Panel + MPG,CM03 Kristal Mat Acik Mocha Finedecor FDP2 242 Basalt Grau SM,9.07.2025,-,-CMT-KM-,-,103.0
-21-25 Temmuz 2025,141031,Ek Siparis Yedek Parça,Toplu İş Siparişi,KORAY İNŞ. TİC VE SAN.AŞ - LIBERTE,2 Adet CM Kapak,CM03 Kristal Mat Acik Mocha Finedecor FDP2 242 Basalt Grau SM,9.07.2025,-CM-,-,-,103.0
-14-18 Temmuz 2025,141122,Ek Siparis Yedek Parça,Mutfak Sipariş,BND Mimarlık Ltd. Sti.,Trafo,,9.07.2025,-,-,-,102.0
-21-25 Temmuz 2025,141041,Ek Siparis Yedek Parça,Mutfak Sipariş,BND Mimarlık Ltd. Sti.,1 Adet CM Kapak,CM04 Kristal Mat Kül Gri  Finedecor FDP2 412 Gris Galet SM,9.07.2025,-CM-,-,-,103.0
-14-18 Temmuz 2025,141124,Ek Siparis Yedek Parça,Mutfak Sipariş,Burcu Perişanoğlu,Kulp,,9.07.2025,-,-,-,102.0
-28 Temmuz-1 Ağustos 2025,141040,Ek Siparis Yedek Parça,Mutfak Sipariş,ALPER ÜLKÜ,Membran Taç Bandı,T120 Baltık Mavi  Finedecor FLI3 AFM 6100 Aquamarin,9.07.2025,-,-DP-,-,104.0
 14-18 Temmuz 2025,141076,Ek Siparis Yedek Parça,Mutfak Sipariş,HASAN CAN,Askı Rayı,,9.07.2025,-,-,-,102.0
-14-18 Temmuz 2025,141161,Ek Siparis Yedek Parça,Reklamasyon Siparis,HİKMET KARADEMİR,1 Adet MPG,F236 Koton Vizon Gövde KEAS  F236 Koton Vizon / KMS yüzey,9.07.2025,-,-KM-,-,102.0
-28 Temmuz-1 Ağustos 2025,141055,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,bm kolleksiyon a.ş.,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141063,Ek Siparis Yedek Parça,Mağaza Teşhir Sipariş,İntema Bodrum Mağaza ,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141072,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,Yapı Metal İnşaat ve Tessisat Malz.,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141060,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,Faruk Ulular Mühendislik,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141051,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,ALZE YAPI Gayrımenkul Ticaret LTD. ŞTİ.,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141050,Ek Siparis Yedek Parça,Mağaza Teşhir Sipariş,Intema Adana Mağaza,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141070,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,Sayitoğlu Yapı,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141047,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,Edirne-ABM Gayrimenkul  ve İnş.Mal.,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141059,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,Eskihisar A.Ş. Ankara Mağaza,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141057,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,BND Mimarlık Ltd. Sti.,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141052,Ek Siparis Yedek Parça,Mağaza Teşhir Sipariş,İntema Ankara Mağaza,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141064,Ek Siparis Yedek Parça,Mağaza Teşhir Sipariş,İntema Suadiye Mağaza,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141061,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,Güneyliler Yapı,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141067,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,Olcay Yapı Malz. Tic. İnş. ve San. A.Ş.,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141068,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,Olcay Yapı Malz. Tic. İnş. ve San. A.Ş.,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141088,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141084,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141087,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141086,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141092,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141090,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141094,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141093,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141091,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141089,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141066,Ek Siparis Yedek Parça,Mağaza Teşhir Sipariş,İntema İzmir Mağaza,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141053,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,Başar İş İnşaat,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
 28 Temmuz-1 Ağustos 2025,141012,Ek Siparis Yedek Parça,Mutfak Sipariş,Hale Ercoşkun Ünal,1 Adet MDU,T125 Manolya Finedecor FLI3 AFM 3105 Lux Magnolıa ,11.07.2025,-S1-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141071,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,VİENN Mimarlık,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141079,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,Stillay Mobilya Dekorasyon İnşaat,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141058,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,Çarıklıoğlu Yapı,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141069,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,Olcay Yapı - Pendik,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141049,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,Tekirdağ - Abm Gayrimenkul ve İnş.,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141077,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,NESLİBEY DEMİRHAN YAPI TİC.LTD.ŞTİ,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
 18-22 Ağustos 2025,141150,Ek Siparis Yedek Parça,Mutfak Sipariş,MEHMET REŞAT EREK,4 Adet Mat Lake Parça,M001 Buz Beyaz 08018.0WBZ6 PULVER,11.07.2025,-V1-,-ML-,-,107.0
 21-25 Temmuz 2025,141193,Ek Siparis Yedek Parça,Reklamasyon Siparis,Kar İnşaat,7 Adet Softlak Parça,M203 Latte D218_MP_KSMRMDF18M_18MM D218 KAŞMİR MATPLS MDF 2800X2100,11.07.2025,-M2-,-,-,103.0
-28 Temmuz-1 Ağustos 2025,141080,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,Sarıkadıoğlu Mimarlık,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141082,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,Bakırlar Yapı Malz. İnş. Ltd. Şti.,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141048,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,Çorlu - Abm Gayrimenkul ve İnş.Mal,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141078,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,MAS CEPHE SİST.İNŞ.SAN. VE TİC.LTD.,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141054,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,BEKS DESİGN,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141073,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,YAPI SMART İNŞ. MALZ. SAN. VE TİC. ,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141081,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,Zeyka Mimarlık İnş. Ltd. Şti.,Numune Kapak,M206 Bej KASTAMONU ENTEGRE MATTPLUS D140 KUMTAŞI,11.07.2025,-M2-,-,-,104.0
 18-22 Ağustos 2025,141165,Ek Siparis Yedek Parça,Mutfak Sipariş,ERDEM ÖZENCİ,3 Adet Mat Lake Kapak,M002 Açık Kül Gri özel renk,14.07.2025,-V1-,-,-,107.0
 28 Temmuz-1 Ağustos 2025,141219,Ek Siparis Yedek Parça,Mutfak Sipariş,KASSAB GIDA LOKANTACILIK,Kulp,,17.07.2025,-,-,-,104.0
 28 Temmuz-1 Ağustos 2025,141271,Ek Siparis Yedek Parça,Mutfak Sipariş,GÖKHAN GÖKÇE,Led,,17.07.2025,-,-,-,104.0
 28 Temmuz-1 Ağustos 2025,141289,Ek Siparis Yedek Parça,Reklamasyon Siparis,OSMAN ÖZEN,Arkalık,,16.07.2025,-,-KM-,-,104.0
 28 Temmuz-1 Ağustos 2025,141277,Ek Siparis Yedek Parça,Reklamasyon Siparis,BERNA ERBİLEK,Membran Kapaklar,T111 Süt Beyaz FLI3 AFM 2000 White,17.07.2025,-V2-,-,-,104.0
-28 Temmuz-1 Ağustos 2025,141316,Ek Siparis Yedek Parça,Reklamasyon Siparis,ERDEM KIRAMER,1 Adet Softlak Panel,M203 Latte D218_MP_KSMRMDF18M_18MM D218 KAŞMİR MATPLS MDF 2800X2100,17.07.2025,-,-M2T-,-,104.0
 11-15 Ağustos 2025,141463,Ek siparis Modül,Mutfak Sipariş,BERRİN ES,1 Adet Membran Kapak + MPG,T122 Açık Gri  Finedecor FLI3 AFM 4000 Grey ,22.07.2025,-T1-,-KM-AL-,-,106.0
 11-15 Ağustos 2025,140570,Ek siparis Modül,Mutfak Sipariş,GÖZDE KAVGACI,1 Adet Melamin Kapak,M103 Latte D218_KSMRSNT18MM_18MM D218 KAŞMİR SUNTALAM 2800X2100,18.07.2025,-M1-,-,-,106.0
 11-15 Ağustos 2025,141243,Ek Siparis Yedek Parça,Toplu İş Siparişi,KORAY İNŞ. TİC VE SAN.AŞ - LIBERTE,1 Adet Arkalık,W310 Beyaz Gövde Yıldız EntegreVT998,18.07.2025,-,-KM-,-,106.0
 11-15 Ağustos 2025,141269,Ek Siparis Yedek Parça,Toplu İş Siparişi,Fortis,Boyled,,22.07.2025,-,-,-,106.0
 11-15 Ağustos 2025,141288,Ek Siparis Yedek Parça,Mutfak Sipariş,SAVAŞ ÖNAL,1 Adet Softlak Panel + MPG,M203 Latte D218_MP_KSMRMDF18M_18MM D218 KAŞMİR MATPLS MDF 2800X2100,18.07.2025,-,-KM-M2T-,-,106.0
+,141469,Ek Siparis Yedek Parça,Mutfak Sipariş,İLKER KAZAZ,Rötuş Boyası,,23.07.2025,-,-,-,
+,141664,Ek Siparis Yedek Parça,Mutfak Sipariş,Zeynep Özcan,,,25.07.2025,-,-GL-,,
+,141522,Ek Siparis Yedek Parça,Mutfak Sipariş,ERDEM ÖZENCİ,,,25.07.2025,-,-,,
+,141615,Ek Siparis Yedek Parça,Mutfak Sipariş,GÜLŞEN COŞAR,,,25.07.2025,-,-,,
+,141654,Ek siparis Modül,Reklamasyon Siparis,KORAY İNŞ. TİC VE SAN.AŞ - LIBERTE,,,25.07.2025,-CM-,-KM-,,
+,141643,Ek Siparis Yedek Parça,Reklamasyon Siparis,TÜMAY HOLSCHER,,,25.07.2025,-,-,,
+,141639,Ek Siparis Yedek Parça,Reklamasyon Siparis,ERGUN BİNBOĞA,,,25.07.2025,-CM-,-,,
