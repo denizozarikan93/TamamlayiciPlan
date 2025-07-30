@@ -1,7 +1,6 @@
 ﻿Teslim Haftası,CRMOrderNo,Kullanım,Proje Türü,Müşteri,İçerik,Malzeme,Üretime Aktarım,Kapak Prog,Tamamlayıcı Prog,Teslim Durumu,Index
 11-15 Kasım 2024,134512,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,MAS CEPHE SİST.İNŞ.SAN. VE TİC.LTD.,Membran Parçalar + Tezgah,,17.10.2024,-,-DP-TZG1-TZG2-TZG3-,-,67.0
 11-15 Kasım 2024,134515,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,Sarıkadıoğlu Mimarlık,Membran Parçalar + Tezgah,,17.10.2024,-,-DP-TZG1-TZG2-TZG3-,-,67.0
-21-25 Temmuz 2025,140692,Ek Siparis Yedek Parça,Mutfak Sipariş,Güray Çıracı,1 Adet Doğal Ahşap Panel,W009 Düşey Hareli Naturel Meşe Düşey Hareli Naturel Meşe,26.06.2025,-,-ND-,-,103.0
 ,137656,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,Tezgah ve Yanak Numune Set,,13.02.2025,-,-,-,
 ,137643,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,Rezerv Numune Set,,13.02.2025,-,-,-,
 ,137646,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,Rezerv Numune Set,,13.02.2025,-,-,-,
@@ -34,13 +33,32 @@
 28 Temmuz-1 Ağustos 2025,141277,Ek Siparis Yedek Parça,Reklamasyon Siparis,BERNA ERBİLEK,Membran Kapaklar,T111 Süt Beyaz FLI3 AFM 2000 White,17.07.2025,-V2-,-,-,104.0
 11-15 Ağustos 2025,141463,Ek siparis Modül,Mutfak Sipariş,BERRİN ES,1 Adet Membran Kapak + MPG,T122 Açık Gri  Finedecor FLI3 AFM 4000 Grey ,22.07.2025,-T1-,-KM-AL-,-,106.0
 11-15 Ağustos 2025,140570,Ek siparis Modül,Mutfak Sipariş,GÖZDE KAVGACI,1 Adet Melamin Kapak,M103 Latte D218_KSMRSNT18MM_18MM D218 KAŞMİR SUNTALAM 2800X2100,18.07.2025,-M1-,-,-,106.0
-11-15 Ağustos 2025,141243,Ek Siparis Yedek Parça,Toplu İş Siparişi,KORAY İNŞ. TİC VE SAN.AŞ - LIBERTE,1 Adet Arkalık,W310 Beyaz Gövde Yıldız EntegreVT998,18.07.2025,-,-KM-,-,106.0
 11-15 Ağustos 2025,141269,Ek Siparis Yedek Parça,Toplu İş Siparişi,Fortis,Boyled,,22.07.2025,-,-,-,106.0
 11-15 Ağustos 2025,141288,Ek Siparis Yedek Parça,Mutfak Sipariş,SAVAŞ ÖNAL,1 Adet Softlak Panel + MPG,M203 Latte D218_MP_KSMRMDF18M_18MM D218 KAŞMİR MATPLS MDF 2800X2100,18.07.2025,-,-KM-M2T-,-,106.0
-,141469,Ek Siparis Yedek Parça,Mutfak Sipariş,İLKER KAZAZ,Rötuş Boyası,,23.07.2025,-,-,-,
-,141664,Ek Siparis Yedek Parça,Mutfak Sipariş,Zeynep Özcan,,,25.07.2025,-,-GL-,,
-,141522,Ek Siparis Yedek Parça,Mutfak Sipariş,ERDEM ÖZENCİ,,,25.07.2025,-,-,,
-,141615,Ek Siparis Yedek Parça,Mutfak Sipariş,GÜLŞEN COŞAR,,,25.07.2025,-,-,,
-,141654,Ek siparis Modül,Reklamasyon Siparis,KORAY İNŞ. TİC VE SAN.AŞ - LIBERTE,,,25.07.2025,-CM-,-KM-,,
-,141643,Ek Siparis Yedek Parça,Reklamasyon Siparis,TÜMAY HOLSCHER,,,25.07.2025,-,-,,
-,141639,Ek Siparis Yedek Parça,Reklamasyon Siparis,ERGUN BİNBOĞA,,,25.07.2025,-CM-,-,,
+4-8 Ağustos 2025,141469,Ek Siparis Yedek Parça,Mutfak Sipariş,İLKER KAZAZ,Rötuş Boyası,,23.07.2025,-,-,-,105.0
+8-12 Eylül 2025,141664,Ek Siparis Yedek Parça,Mutfak Sipariş,Zeynep Özcan,2 Adet Parlak Lake MRF,P001 Buz Beyaz 02088.0WY42 PULVER,25.07.2025,-,-GL-,-,110.0
+28 Temmuz-1 Ağustos 2025,141522,Ek Siparis Yedek Parça,Mutfak Sipariş,ERDEM ÖZENCİ,Pelikan Çöp Kovası,,25.07.2025,-,-,-,104.0
+28 Temmuz-1 Ağustos 2025,141643,Ek Siparis Yedek Parça,Reklamasyon Siparis,TÜMAY HOLSCHER,Gofraj,,25.07.2025,-,-,-,104.0
+4-8 Ağustos 2025,141639,Ek Siparis Yedek Parça,Reklamasyon Siparis,ERGUN BİNBOĞA,1 Adet CM Kapak,CM01 Kristal Mat Süt Beyaz Finedecor FDP2 546 White SM,25.07.2025,-CM-,-,-,105.0
+,141845,Ek Siparis Yedek Parça,Reklamasyon Siparis,HASAN CAN,3 Adet Mat Lake Parça,M023 Beton Yeşili RAL 7033,28.07.2025,-N2-,-ML-,-,
+,141797,Ek Siparis Yedek Parça,Reklamasyon Siparis,HATİCE ERÇİN,1 Adet Mat Lake Panel,M021 Baltık Mavi RAL 180 60 05,28.07.2025,-,-FML-,-,
+,141831,Ek Siparis Yedek Parça,Reklamasyon Siparis,SONAY TUFAN,3 Adet Membran Parça,T111 Süt Beyaz FLI3 AFM 2000 White,28.07.2025,-V2-,-DP-,-,
+,141780,Mutfak,Mağaza Teşhir Sipariş,İntema Ankara Mağaza,8 Adet Membran Kapak,T123 Kaşmir Finedecor FLI3 AFM 3001 Kasmir,28.07.2025,-V2-V4C-,-,-,
+,141945,Ek Siparis Yedek Parça,Mağaza Teşhir Sipariş,İntema Ankara Mağaza,3 Adet Membran Parça,T123 Kaşmir Finedecor FLI3 AFM 3001 Kasmir,29.07.2025,-,-DP-,,
+,141724,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Suadiye Mağaza,İsli Meşe Numune,W011 Düşey Hareli İsli Meşe Düşey Hareli İsli Meşe,29.07.2025,-,-,,
+,141517,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,İsli Meşe Numune,W011 Düşey Hareli İsli Meşe Düşey Hareli İsli Meşe,29.07.2025,-,-,,
+,141516,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,İsli Meşe Numune,W011 Düşey Hareli İsli Meşe Düşey Hareli İsli Meşe,29.07.2025,-,-,,
+,141518,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,İsli Meşe Numune,W011 Düşey Hareli İsli Meşe Düşey Hareli İsli Meşe,29.07.2025,-,-,,
+,141519,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,İsli Meşe Numune,W011 Düşey Hareli İsli Meşe Düşey Hareli İsli Meşe,29.07.2025,-,-,,
+,141520,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,İsli Meşe Numune,W011 Düşey Hareli İsli Meşe Düşey Hareli İsli Meşe,29.07.2025,-,-,,
+,141546,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,İsli Meşe Numune,W011 Düşey Hareli İsli Meşe Düşey Hareli İsli Meşe,29.07.2025,-,-,,
+,141545,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,İsli Meşe Numune,W011 Düşey Hareli İsli Meşe Düşey Hareli İsli Meşe,29.07.2025,-,-,,
+,141544,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,İsli Meşe Numune,W011 Düşey Hareli İsli Meşe Düşey Hareli İsli Meşe,29.07.2025,-,-,,
+,141548,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,İsli Meşe Numune,W011 Düşey Hareli İsli Meşe Düşey Hareli İsli Meşe,29.07.2025,-,-,,
+,141550,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,İsli Meşe Numune,W011 Düşey Hareli İsli Meşe Düşey Hareli İsli Meşe,29.07.2025,-,-,,
+,141549,Ek Siparis Yedek Parça,Bedelsiz Sipariş,İntema Yaşam Mağaza,İsli Meşe Numune,W011 Düşey Hareli İsli Meşe Düşey Hareli İsli Meşe,29.07.2025,-,-,,
+,141962,Ek Siparis Yedek Parça,Reklamasyon Siparis,NURGÜL YEŞİLÇAY,1 Adet Cleaf Kapak,,29.07.2025,-X1-,-,,
+,141543,Ek Siparis Yedek Parça,Bedelsiz Sipariş,Sarıkadıoğlu Mimarlık,İsli Meşe Numune,W011 Düşey Hareli İsli Meşe Düşey Hareli İsli Meşe,29.07.2025,-,-,,
+,141622,Ek Siparis Yedek Parça,Bayi Teşhir Sipariş,Bakırlar Yapı Malz. İnş. Ltd. Şti.,Menteşe,,25.07.2025,-,-,,
+,141967,Ek Siparis Yedek Parça,Mutfak Sipariş,Bu Yapı Burhan Yıldırım,1 Adet DM Kapak,DM02 Koyu Ceviz KEAS A466 ARAL Frz (Dokulu Yüzey),29.07.2025,-DM-,-,,
+,141541,Ek Siparis Yedek Parça,Bedelsiz Sipariş,Zeyka Mimarlık İnş. Ltd. Şti.,İsli Meşe Numune,W011 Düşey Hareli İsli Meşe Düşey Hareli İsli Meşe,29.07.2025,-,-,,
