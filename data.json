@@ -1161,6 +1161,20 @@
       "Tamamlayıcı Prog": "-",
       "Teslim Durumu": "-",
       "Index": "108.0"
+    },
+    {
+      "Teslim Haftası": "",
+      "CRMOrderNo": "142776",
+      "Kullanım": "",
+      "Proje Türü": "",
+      "Müşteri": "",
+      "İçerik": "3 Adet Mat Lake Parça",
+      "Malzeme": "M013 İpek Gri RAL 7044",
+      "Üretime Aktarım": "",
+      "Kapak Prog": "",
+      "Tamamlayıcı Prog": "",
+      "Teslim Durumu": "-",
+      "Index": ""
     }
   ],
   "columns": [
@@ -1177,9 +1191,9 @@
     "Teslim Durumu",
     "Index"
   ],
-  "total_rows": 83,
-  "original_rows": 1697,
+  "total_rows": 84,
+  "original_rows": 1698,
   "filtered_rows": 1614,
-  "last_updated": "2025-08-22T20:37:29.190258",
+  "last_updated": "2025-08-24T11:31:01.390799",
   "missing_columns": []
 }
