@@ -1165,14 +1165,14 @@
     {
       "Teslim Haftası": "",
       "CRMOrderNo": "142776",
-      "Kullanım": "",
-      "Proje Türü": "",
-      "Müşteri": "",
+      "Kullanım": "Ek Siparis Yedek Parça",
+      "Proje Türü": "Reklamasyon Siparis",
+      "Müşteri": "esra altıntaş",
       "İçerik": "3 Adet Mat Lake Parça",
       "Malzeme": "M013 İpek Gri RAL 7044",
-      "Üretime Aktarım": "",
-      "Kapak Prog": "",
-      "Tamamlayıcı Prog": "",
+      "Üretime Aktarım": "22.08.2025",
+      "Kapak Prog": "-",
+      "Tamamlayıcı Prog": "-ML-",
       "Teslim Durumu": "-",
       "Index": ""
     }
@@ -1194,6 +1194,6 @@
   "total_rows": 84,
   "original_rows": 1698,
   "filtered_rows": 1614,
-  "last_updated": "2025-08-24T11:31:01.390799",
+  "last_updated": "2025-08-26T08:44:51.446995",
   "missing_columns": []
 }
