@@ -491,20 +491,6 @@
       "Index": "107.0"
     },
     {
-      "Teslim Haftası": "4-8 Ağustos 2025",
-      "CRMOrderNo": "141622",
-      "Kullanım": "Ek Siparis Yedek Parça",
-      "Proje Türü": "Bayi Teşhir Sipariş",
-      "Müşteri": "Bakırlar Yapı Malz. İnş. Ltd. Şti.",
-      "İçerik": "Menteşe",
-      "Malzeme": "",
-      "Üretime Aktarım": "25.07.2025",
-      "Kapak Prog": "-",
-      "Tamamlayıcı Prog": "-",
-      "Teslim Durumu": "-",
-      "Index": "105.0"
-    },
-    {
       "Teslim Haftası": "18-22 Ağustos 2025",
       "CRMOrderNo": "142485",
       "Kullanım": "Ek Siparis Yedek Parça",
@@ -561,20 +547,6 @@
       "Index": "108.0"
     },
     {
-      "Teslim Haftası": "18-22 Ağustos 2025",
-      "CRMOrderNo": "142498",
-      "Kullanım": "Ek Siparis Yedek Parça",
-      "Proje Türü": "Reklamasyon Siparis",
-      "Müşteri": "Gökhan Paçal",
-      "İçerik": "Sole Kapama",
-      "Malzeme": "M011 Sis Gri özel renk RAL 840-1",
-      "Üretime Aktarım": "13.08.2025",
-      "Kapak Prog": "-",
-      "Tamamlayıcı Prog": "-",
-      "Teslim Durumu": "-",
-      "Index": "107.0"
-    },
-    {
       "Teslim Haftası": "25-29 Ağustos 2025",
       "CRMOrderNo": "142547",
       "Kullanım": "Ek Siparis Yedek Parça",
@@ -629,20 +601,6 @@
       "Tamamlayıcı Prog": "-M2T-",
       "Teslim Durumu": "-",
       "Index": "108.0"
-    },
-    {
-      "Teslim Haftası": "18-22 Ağustos 2025",
-      "CRMOrderNo": "142605",
-      "Kullanım": "Ek Siparis Yedek Parça",
-      "Proje Türü": "Reklamasyon Siparis",
-      "Müşteri": "THERMODYNAMIK İNŞAAT",
-      "İçerik": "Gola + Basaç",
-      "Malzeme": "M004 Vizon 09028.0HDO6 PULVER",
-      "Üretime Aktarım": "16.08.2025",
-      "Kapak Prog": "-",
-      "Tamamlayıcı Prog": "-",
-      "Teslim Durumu": "-",
-      "Index": "107.0"
     },
     {
       "Teslim Haftası": "18-22 Ağustos 2025",
@@ -982,20 +940,6 @@
     },
     {
       "Teslim Haftası": "25-29 Ağustos 2025",
-      "CRMOrderNo": "142670",
-      "Kullanım": "Ek Siparis Yedek Parça",
-      "Proje Türü": "Bedelsiz Sipariş",
-      "Müşteri": "EGE YENİ TURz. & CASPER GY iş ort",
-      "İçerik": "Numune Kapak",
-      "Malzeme": "",
-      "Üretime Aktarım": "19.08.2025",
-      "Kapak Prog": "-",
-      "Tamamlayıcı Prog": "-",
-      "Teslim Durumu": "-",
-      "Index": "108.0"
-    },
-    {
-      "Teslim Haftası": "25-29 Ağustos 2025",
       "CRMOrderNo": "142657",
       "Kullanım": "Ek Siparis Yedek Parça",
       "Proje Türü": "Reklamasyon Siparis",
@@ -1163,7 +1107,7 @@
       "Index": "108.0"
     },
     {
-      "Teslim Haftası": "",
+      "Teslim Haftası": "22-26 Eylül 2025",
       "CRMOrderNo": "142776",
       "Kullanım": "Ek Siparis Yedek Parça",
       "Proje Türü": "Reklamasyon Siparis",
@@ -1174,7 +1118,63 @@
       "Kapak Prog": "-",
       "Tamamlayıcı Prog": "-ML-",
       "Teslim Durumu": "-",
-      "Index": ""
+      "Index": "112.0"
+    },
+    {
+      "Teslim Haftası": "15-19 Eylül 2025",
+      "CRMOrderNo": "142811",
+      "Kullanım": "Ek Siparis Yedek Parça",
+      "Proje Türü": "Mutfak Sipariş",
+      "Müşteri": "Bu Yapı İnşaat",
+      "İçerik": "2 Ade LN Kapak",
+      "Malzeme": "LN01 Mat Pet Grafit FLI2 AFM 5100 Graphite",
+      "Üretime Aktarım": "25.08.2025",
+      "Kapak Prog": "-LN-",
+      "Tamamlayıcı Prog": "-",
+      "Teslim Durumu": "-",
+      "Index": "111.0"
+    },
+    {
+      "Teslim Haftası": "1-5 Eylül 2025",
+      "CRMOrderNo": "142868",
+      "Kullanım": "Ek Siparis Yedek Parça",
+      "Proje Türü": "Mutfak Sipariş",
+      "Müşteri": "DİDEM KOŞUCUOĞLU",
+      "İçerik": "Boyalı Profil",
+      "Malzeme": "M015 Taş Gri 09610.0STN105 PULVER",
+      "Üretime Aktarım": "26.08.2025",
+      "Kapak Prog": "-",
+      "Tamamlayıcı Prog": "-",
+      "Teslim Durumu": "-",
+      "Index": "109.0"
+    },
+    {
+      "Teslim Haftası": "15-19 Eylül 2025",
+      "CRMOrderNo": "142876",
+      "Kullanım": "Ek Siparis Yedek Parça",
+      "Proje Türü": "Mutfak Sipariş",
+      "Müşteri": "TAVUKÇUOĞLU İNŞAAT",
+      "İçerik": "3 Adet Softlak Parça + MPG",
+      "Malzeme": "M202 Duman Gri D164_MP_LUNAMDF18M_18MM D164 LUNA MATPLUS MDF 2800X2100",
+      "Üretime Aktarım": "26.08.2025",
+      "Kapak Prog": "-M2-",
+      "Tamamlayıcı Prog": "-KM-",
+      "Teslim Durumu": "-",
+      "Index": "111.0"
+    },
+    {
+      "Teslim Haftası": "15-19 Eylül 2025",
+      "CRMOrderNo": "142860",
+      "Kullanım": "Ek Siparis Yedek Parça",
+      "Proje Türü": "Mutfak Sipariş",
+      "Müşteri": "TAVUKÇUOĞLU İNŞAAT",
+      "İçerik": "1 Adet Softlak Kapak",
+      "Malzeme": "M202 Duman Gri D164_MP_LUNAMDF18M_18MM D164 LUNA MATPLUS MDF 2800X2100",
+      "Üretime Aktarım": "26.08.2025",
+      "Kapak Prog": "-M2-",
+      "Tamamlayıcı Prog": "-",
+      "Teslim Durumu": "-",
+      "Index": "111.0"
     }
   ],
   "columns": [
@@ -1192,8 +1192,8 @@
     "Index"
   ],
   "total_rows": 84,
-  "original_rows": 1698,
-  "filtered_rows": 1614,
-  "last_updated": "2025-08-26T08:44:51.446995",
+  "original_rows": 1702,
+  "filtered_rows": 1618,
+  "last_updated": "2025-08-28T09:54:57.368725",
   "missing_columns": []
 }
