@@ -575,20 +575,6 @@
       "Index": "107.0"
     },
     {
-      "Teslim Haftası": "18-22 Ağustos 2025",
-      "CRMOrderNo": "141697",
-      "Kullanım": "Ek Siparis Yedek Parça",
-      "Proje Türü": "Mutfak Sipariş",
-      "Müşteri": "mehmet san",
-      "İçerik": "6 Adet Softlak Panel",
-      "Malzeme": "M204 Grafit D143_MP_ANTMDF18MM_18MM D143 ANTRASİT MATPLS MDF 2800X2100",
-      "Üretime Aktarım": "31.07.2025",
-      "Kapak Prog": "-",
-      "Tamamlayıcı Prog": "-M2T-",
-      "Teslim Durumu": "-",
-      "Index": "107.0"
-    },
-    {
       "Teslim Haftası": "25-29 Ağustos 2025",
       "CRMOrderNo": "142606",
       "Kullanım": "Ek Siparis Yedek Parça",
@@ -771,20 +757,6 @@
       "Index": "109.0"
     },
     {
-      "Teslim Haftası": "18-22 Ağustos 2025",
-      "CRMOrderNo": "142230",
-      "Kullanım": "Ek Siparis Yedek Parça",
-      "Proje Türü": "Mutfak Sipariş",
-      "Müşteri": "Emine Çipe",
-      "İçerik": "1 Adet Mpg",
-      "Malzeme": "W310 Beyaz Gövde Yıldız EntegreVT998",
-      "Üretime Aktarım": "8.08.2025",
-      "Kapak Prog": "-",
-      "Tamamlayıcı Prog": "-KM-",
-      "Teslim Durumu": "-",
-      "Index": "107.0"
-    },
-    {
       "Teslim Haftası": "1-5 Eylül 2025",
       "CRMOrderNo": "142166",
       "Kullanım": "Ek Siparis Yedek Parça",
@@ -935,20 +907,6 @@
       "Üretime Aktarım": "19.08.2025",
       "Kapak Prog": "-",
       "Tamamlayıcı Prog": "-",
-      "Teslim Durumu": "-",
-      "Index": "108.0"
-    },
-    {
-      "Teslim Haftası": "25-29 Ağustos 2025",
-      "CRMOrderNo": "142657",
-      "Kullanım": "Ek Siparis Yedek Parça",
-      "Proje Türü": "Reklamasyon Siparis",
-      "Müşteri": "MELİKE ÖRNEK",
-      "İçerik": "1 Adet MPG",
-      "Malzeme": "F236 Koton Vizon Gövde KEAS  F236 Koton Vizon / KMS yüzey",
-      "Üretime Aktarım": "18.08.2025",
-      "Kapak Prog": "-",
-      "Tamamlayıcı Prog": "-KM-",
       "Teslim Durumu": "-",
       "Index": "108.0"
     },
@@ -1191,9 +1149,9 @@
     "Teslim Durumu",
     "Index"
   ],
-  "total_rows": 84,
+  "total_rows": 81,
   "original_rows": 1702,
-  "filtered_rows": 1618,
-  "last_updated": "2025-08-28T10:00:32.548465",
+  "filtered_rows": 1621,
+  "last_updated": "2025-08-28T12:39:30.125700",
   "missing_columns": []
 }
