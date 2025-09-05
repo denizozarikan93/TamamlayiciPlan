@@ -575,20 +575,6 @@
       "Index": "110.0"
     },
     {
-      "Teslim Haftası": "1-5 Eylül 2025",
-      "CRMOrderNo": "142544",
-      "Kullanım": "Ek Siparis Yedek Parça",
-      "Proje Türü": "Mutfak Sipariş",
-      "Müşteri": "Müge Bayraktar",
-      "İçerik": "Boyalı Gola + Mzık",
-      "Malzeme": "M026 Baltık Gri RAL 7012",
-      "Üretime Aktarım": "19.08.2025",
-      "Kapak Prog": "-",
-      "Tamamlayıcı Prog": "-",
-      "Teslim Durumu": "-",
-      "Index": "109.0"
-    },
-    {
       "Teslim Haftası": "22-26 Eylül 2025",
       "CRMOrderNo": "142679",
       "Kullanım": "Ek Siparis Yedek Parça",
@@ -671,20 +657,6 @@
       "Tamamlayıcı Prog": "-DP-",
       "Teslim Durumu": "-",
       "Index": "110.0"
-    },
-    {
-      "Teslim Haftası": "25-29 Ağustos 2025",
-      "CRMOrderNo": "142545",
-      "Kullanım": "Ek Siparis Yedek Parça",
-      "Proje Türü": "Mutfak Sipariş",
-      "Müşteri": "House Reklam İlet.Tan.Tic.Ltd.Şti.",
-      "İçerik": "Menteşe + Tel Sepet + Kaşıklık",
-      "Malzeme": "",
-      "Üretime Aktarım": "20.08.2025",
-      "Kapak Prog": "-",
-      "Tamamlayıcı Prog": "-",
-      "Teslim Durumu": "-",
-      "Index": "108.0"
     },
     {
       "Teslim Haftası": "25-29 Ağustos 2025",
@@ -771,20 +743,6 @@
       "Index": "111.0"
     },
     {
-      "Teslim Haftası": "1-5 Eylül 2025",
-      "CRMOrderNo": "142868",
-      "Kullanım": "Ek Siparis Yedek Parça",
-      "Proje Türü": "Mutfak Sipariş",
-      "Müşteri": "DİDEM KOŞUCUOĞLU",
-      "İçerik": "Boyalı Profil",
-      "Malzeme": "M015 Taş Gri 09610.0STN105 PULVER",
-      "Üretime Aktarım": "26.08.2025",
-      "Kapak Prog": "-",
-      "Tamamlayıcı Prog": "-",
-      "Teslim Durumu": "-",
-      "Index": "109.0"
-    },
-    {
       "Teslim Haftası": "15-19 Eylül 2025",
       "CRMOrderNo": "142876",
       "Kullanım": "Ek Siparis Yedek Parça",
@@ -809,20 +767,6 @@
       "Üretime Aktarım": "26.08.2025",
       "Kapak Prog": "-M2-",
       "Tamamlayıcı Prog": "-",
-      "Teslim Durumu": "-",
-      "Index": "111.0"
-    },
-    {
-      "Teslim Haftası": "15-19 Eylül 2025",
-      "CRMOrderNo": "142945",
-      "Kullanım": "Ek Siparis Yedek Parça",
-      "Proje Türü": "Mutfak Sipariş",
-      "Müşteri": "Ahmet Alemdar",
-      "İçerik": "1 Adet MPG",
-      "Malzeme": "F236 Koton Vizon Gövde KEAS  F236 Koton Vizon / KMS yüzey",
-      "Üretime Aktarım": "29.08.2025",
-      "Kapak Prog": "-",
-      "Tamamlayıcı Prog": "-KM-",
       "Teslim Durumu": "-",
       "Index": "111.0"
     },
@@ -897,20 +841,6 @@
       "Index": "111.0"
     },
     {
-      "Teslim Haftası": "1-5 Eylül 2025",
-      "CRMOrderNo": "142935",
-      "Kullanım": "Ek Siparis Yedek Parça",
-      "Proje Türü": "Reklamasyon Siparis",
-      "Müşteri": "NİMET ÖZKAN",
-      "İçerik": "Çekmece Yanak",
-      "Malzeme": "",
-      "Üretime Aktarım": "29.08.2025",
-      "Kapak Prog": "-",
-      "Tamamlayıcı Prog": "-",
-      "Teslim Durumu": "-",
-      "Index": "109.0"
-    },
-    {
       "Teslim Haftası": "",
       "CRMOrderNo": "142974",
       "Kullanım": "Ek Siparis Yedek Parça",
@@ -953,9 +883,9 @@
     "Teslim Durumu",
     "Index"
   ],
-  "total_rows": 67,
+  "total_rows": 62,
   "original_rows": 1712,
-  "filtered_rows": 1645,
-  "last_updated": "2025-09-04T08:38:27.036770",
+  "filtered_rows": 1650,
+  "last_updated": "2025-09-05T16:57:30.591606",
   "missing_columns": []
 }
